@@ -1,0 +1,14 @@
+{
+  "name": "genpark-burrows-wheeler-bwt-fm-index-skill",
+  "version": "1.0.0",
+  "description": "Burrows-Wheeler Transform (BWT) and FM-index compression engine enabling ultra-fast exact substring and genome read mapping in sublinear time.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bwt",
+    "burrows-wheeler",
+    "fm-index",
+    "read-mapping",
+    "genomics"
+  ]
+}
